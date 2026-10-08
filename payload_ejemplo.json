@@ -1,0 +1,37 @@
+{
+  "sistema": {
+    "ts": "2026-10-08T15:32:11",
+    "hostname": "DESKTOP-DEMO",
+    "usuario": "usuario_demo",
+    "so": "Windows 10",
+    "arquitectura": "AMD64",
+    "python": "3.11.0",
+    "ip_local": "192.168.1.100"
+  },
+  "geo": {
+    "ip": "203.0.113.45",
+    "city": "Buenos Aires",
+    "region": "Buenos Aires",
+    "country": "AR",
+    "org": "ISP Demo S.A.",
+    "loc": "-34.6000,-58.3800"
+  },
+  "archivos": {
+    "Downloads": [
+      {"nombre": "cv.pdf", "ruta": "C:\\Users\\usuario_demo\\Downloads\\cv.pdf", "tamano": 245678},
+      {"nombre": "notas.txt", "ruta": "C:\\Users\\usuario_demo\\Downloads\\notas.txt", "tamano": 1234}
+    ],
+    "Documents": [
+      {"nombre": "presupuesto.xlsx", "ruta": "C:\\Users\\usuario_demo\\Documents\\presupuesto.xlsx", "tamano": 45678}
+    ]
+  },
+  "logins": {
+    "chrome": [
+      {"url": "https://accounts.google.com/signin", "usuario": "usuario@example.com"},
+      {"url": "https://www.mercadolibre.com.ar/login", "usuario": "usuario@example.com"}
+    ],
+    "edge": [
+      {"url": "https://outlook.live.com", "usuario": "usuario@example.com"}
+    ]
+  }
+}
