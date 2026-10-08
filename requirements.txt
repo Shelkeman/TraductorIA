@@ -1,0 +1,3 @@
+# Solo se necesita Python estándar para el agente.
+# Para empaquetar:
+pyinstaller>=5.0
